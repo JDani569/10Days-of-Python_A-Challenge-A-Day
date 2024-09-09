@@ -14,3 +14,10 @@
 ### Write a function called check_duplicates that takes a list of strings as an argument. The function should check if the list has any duplicates. If there are duplicates, the function should return the duplicates. If there are no duplicates, the function should return "No duplicates". For example, the list of fruits below should return apple as a duplicate and list of names should return "no duplicates".
 
 # Day 3
+## Task 1
+# Write a function called register_check that checks how many
+# students are in school. The function takes a dictionary as a
+# parameter. If the student is in school, the dictionary says ‘yes’. If
+# the student is not in school, the dictionary says ‘no’. Your
+# function should return the number of students in school. Use the
+# dictionary below. Your function should return 3.
