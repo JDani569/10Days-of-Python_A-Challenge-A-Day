@@ -28,4 +28,11 @@
 ### Write a function called word_index that takes one argument, a list of strings and returns the index of the longest word in the list. If there is no longest word (if all the strings are of the same length), the function should return zero (0). For example, the list below should return 2.
 
 # Day 5
-
+## Task 1
+# Create a function called my_discount. The function takes no
+# arguments but asks the user to input the price and the
+# discount (percentage) of the product. Once the user inputs the
+# price and discount, it calculates the price after the discount.
+# The function should return the price after the discount. For
+# example, if the user enters 150 as price and 15% as the discount,
+# your function should return 127.5.
