@@ -41,3 +41,5 @@
 ## Task 2
 ### Write a function called zeroed code that takes a list of numbers as an argument. The code should zero (0) the first and the last number in the list.
 
+# Day 7
+
