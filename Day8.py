@@ -5,18 +5,18 @@
 # smallest odd number in the list. For example, if you pass
 # [1,2,4,6] as an argument the function should return 6 -1= 5.
 
-# a = int(input("Enter your staring range: "))
-# b = int(input("Enter your ending range: "))
-# d = []
+a = int(input("Enter your staring range: "))
+b = int(input("Enter your ending range: "))
+d = []
 
-# for i in range(a,b):
-#     d.append(i)
-#     d.sort()
-#     if d[-1] % 2 == 0:
-#         c = d[-1] - d[0]
+for i in range(a,b):
+    d.append(i)
+    d.sort()
+    if d[-1] % 2 == 0:
+        c = d[-1] - d[0]
     
-# print("Your list is: ",d)
-# print(c)   
+print("Your list is: ",d)
+print(c)   
 
 # Task 2
 # Write a function called prime_numbers. This function asks a
