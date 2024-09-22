@@ -62,3 +62,10 @@
 ## Task 2
 ### Write a function called zeros_last. This function takes a list as argument. If a list has zeros (0), it will move them to the front of the list and maintain the order of the other numbers in the list. If there are no Zeros in the list, the function should return the original list sorted in ascending order. For example, if you pass [1, 4, 6, 0, 7,0,9] as an argument, your code should return [1,4, 6, 7, 9, 0, 0]. If you pass [2, 1, 4, 7, 6] as your argument,your code should return [1, 2, 4, 6, 7].
 
+# Task 1
+# Write a function called hide_password that takes no
+# parameters. The function takes an input (a password) from a
+# user and returns a hidden password. For example, if the user
+# enters ‘hello’ as a password the function should return ‘****’ as
+# a password and tell the user that the password is 4 characters
+# long.
